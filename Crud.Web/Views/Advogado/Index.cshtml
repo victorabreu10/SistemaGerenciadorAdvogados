@@ -1,0 +1,65 @@
+﻿@model List<AdvogadoModel>
+@{
+    ViewData["Title"] = "Listagem de Advogados";
+}
+ <div class="text center">
+
+     <div class="d-grip gap-2 d-md-flex justify-content-md-start">
+         <a class="btn btn-primary" role="button" asp-controller="Advogado" asp-action="Criar">Adicionar novo Advogado</a>
+     </div>
+      
+     <br />
+
+     @if (TempData["MensagemSucesso"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+         <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="Close">X</button>
+         @TempData["MensagemSucesso"]
+       </div>     
+    }
+
+     @if (TempData["MensagemErro"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+       <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="Close">X</button>
+       @TempData["MensagemErro"]
+       </div>    
+    }
+
+    <br />
+
+
+   <h1 class="display-4">Listagem de Advogados</h1>
+
+<table class="table" id="table-contatos">
+  <thead> 
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Endereço</th>
+      <th scope="col">Senioridade</th>
+       <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (AdvogadoModel advogado in Model)
+                {
+                    <tr>
+                          <th scope="row">@advogado.Id</th>
+                          <td>@advogado.Nome</td>
+                          <td>@advogado.Endereco</td>
+                          <td>@advogado.Senioridade</td>
+                            <td>
+                         <div class="btn-group" role="group">
+                         <a role ="button" class="btn btn-primary" asp-route-id="@advogado.Id" asp-controller="Advogado" asp-action="Editar">Editar</a>
+                         <a role ="button" class="btn btn-danger"asp-route-id="@advogado.Id" asp-controller="Advogado" asp-action="ApagarConfirmacao">Apagar</a>
+                         </div>
+                          </td>
+                          </tr>
+                }
+            }
+  </tbody>
+</table>
+ </div>
