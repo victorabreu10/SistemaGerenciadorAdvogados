@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\Crud.Web.csproj": {}
+    "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\Crud.Web.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\Crud.Web.csproj": {
+    "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\Crud.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
+        "projectUniqueName": "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
         "projectName": "Crud.Web",
-        "projectPath": "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
+        "projectPath": "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
         "packagesPath": "C:\\Users\\vabreu\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\obj\\",
+        "outputPath": "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -40,6 +40,7 @@ namespace Crud.Web.Controllers
 
         public IActionResult Apagar(int id)
         {
+
             try
             {
                bool apagado =  _advogadoRepositorio.Apagar(id);

@@ -395,3 +395,15 @@ C:\ProjetosVictor\SistemaGerenciador\Crud.Web\Crud.Web\obj\Debug\net5.0\Razor\Vi
 C:\ProjetosVictor\SistemaGerenciador\Crud.Web\Crud.Web\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\ProjetosVictor\SistemaGerenciador\Crud.Web\Crud.Web\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDeslogado.cshtml.g.cs
 C:\ProjetosVictor\SistemaGerenciador\Crud.Web\Crud.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.csproj.AssemblyReference.cache
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.AssemblyInfoInputs.cache
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.AssemblyInfo.cs
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.csproj.CoreCompileInputs.cache
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.RazorAssemblyInfo.cache
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.RazorAssemblyInfo.cs
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.dll
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\refint\Crud.Web.dll
+C:\ProjetosVictor\SistemaAdvogados\SistemaGerenciadorAdvogados\Crud.Web\Crud.Web\obj\Debug\net5.0\Crud.Web.pdb

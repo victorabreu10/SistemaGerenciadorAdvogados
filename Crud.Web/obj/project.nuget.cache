@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COUSm9vvfEd/IMr47xfEUqHDTJHa+JpiO/QrrMG9c7LglogGWLmlFoA4pQzpbC274nRsHiXDDfuCxXziZ68wRg==",
+  "dgSpecHash": "sskJHDRYtjSpwn8wCCk2sBmJVoFZPIQPvYxjp1WA0JmPWIYdY5V+to+aIUASolQ5Hu87cHlm124CoLmyF20+Cw==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosVictor\\SistemaGerenciador\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
+  "projectFilePath": "C:\\ProjetosVictor\\SistemaAdvogados\\SistemaGerenciadorAdvogados\\Crud.Web\\Crud.Web\\Crud.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vabreu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vabreu\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.14\\microsoft.aspnetcore.mvc.razor.extensions.5.0.14.nupkg.sha512",
